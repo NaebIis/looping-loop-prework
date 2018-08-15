@@ -5,4 +5,4 @@ def looping
 	end  
 end
 
-#call your method here
+puts "#{counter}"  #call your method here
